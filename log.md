@@ -50,7 +50,7 @@
 		combineReducers and getState
 	b. understanding of js filter function and es6 syntax to return a brand-new array
 **Thoughts:**
-1. Have to work on it further to remember the concepts and solidfy foundation
+1. Have to work on it further to remember the concepts and solidfy foundation of redux and its implementation
 2. Looking forward to use redux with react application
 
 **Link to work:** [Redux App - Insurance Company](https://codepen.io/pseudgeek7/pen/dyYVeLN)
