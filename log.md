@@ -36,3 +36,21 @@
 2. Need to work on utilization of componentDidMount and other similar methods
 
 **Link to work:** [YT Videos Browser App](https://github.com/pseudogeek7/reactive-tuts/tree/master/videos)
+
+
+### Day 3: May 01, 2020 
+
+**Today's Progress**: 
+1. Learnt about Redux Basics
+	a.	Lifecycle
+	b.	Diff components like action creator, action, dispatch, reducers and state
+	c.	understanding through analogy with insurance company example
+2.	Implementation of stand-alone small redux app analogous to insurance company, using codepen
+	a. hands-on over writing action-creators, reducers and managing all components through redux store,
+		combineReducers and getState
+	b. understanding of js filter function and es6 syntax to return a brand-new array
+**Thoughts:**
+1. Have to work on it further to remember the concepts and solidfy foundation
+2. Looking forward to use redux with react application
+
+**Link to work:** [Redux App - Insurance Company](https://codepen.io/pseudgeek7/pen/dyYVeLN)
