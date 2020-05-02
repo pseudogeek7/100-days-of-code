@@ -54,3 +54,12 @@
 2. Looking forward to use redux with react application
 
 **Link to work:** [Redux App - Insurance Company](https://codepen.io/pseudgeek7/pen/dyYVeLN)
+
+### Day 4: May 02, 2020 
+
+**Today's Progress**: 
+Started learning abt integ of reactjs & redux - dev a simple app to implement action creators, provider, connector & reducers
+**Thoughts:**
+sruggling with grasping the whole workflow, will work tmrw to solidfy foundation
+
+**Link to work:** [Simple React-Redux App - Insurance Company](https://github.com/pseudogeek7/reactive-tuts/tree/master/songs)
