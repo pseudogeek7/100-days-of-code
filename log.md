@@ -63,3 +63,13 @@ Started learning abt integ of reactjs & redux - dev a simple app to implement ac
 sruggling with grasping the whole workflow, will work tmrw to solidfy foundation
 
 **Link to work:** [Simple React-Redux App - Insurance Company](https://github.com/pseudogeek7/reactive-tuts/tree/master/songs)
+
+### Day 5: May 03, 2020 
+
+**Today's Progress**: 
+1. Revisited Redux & React-Redux concepts. Learnt in detail abt async actions with redux & use of thunk middleware. 
+2.	Developing a small app for fetching dummy posts by using Redux & Thunk. 
+**Thoughts:**
+Everything making some sense with time.. will keep working on it.
+
+**Link to work:** [Simple React-Redux-Thunk App - Blog](https://github.com/pseudogeek7/reactive-tuts/tree/master/blog)
