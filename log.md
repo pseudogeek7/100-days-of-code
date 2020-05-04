@@ -73,3 +73,19 @@ sruggling with grasping the whole workflow, will work tmrw to solidfy foundation
 Everything making some sense with time.. will keep working on it.
 
 **Link to work:** [Simple React-Redux-Thunk App - Blog](https://github.com/pseudogeek7/reactive-tuts/tree/master/blog)
+
+### Day 6: May 04, 2020 
+
+**Today's Progress**: 
+1.	Learnt Key Reducer Rules
+	a.	must not return undefined object
+	b.	only produce data/ state by utilizing previous state & action (required to define state value initially)
+	c.	must not reach any external source to decide what to return
+	d.	must not mutate its state argument; rather return a brand new array (otherwise react app will not re-render)
+2.	Learnt about Javascript mutations, comparison op & switch statement
+3.	Implementation of Redux Reducer (fetching dummy blog posts from external API) fol learnt rules.
+
+**Thoughts:**
+my life is going on..need to find a lot of time practice..
+
+**Link to work:** [Simple React-Redux-Thunk App - Blog](https://github.com/pseudogeek7/reactive-tuts/tree/master/blog)
