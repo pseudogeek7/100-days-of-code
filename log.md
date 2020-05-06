@@ -89,3 +89,17 @@ Everything making some sense with time.. will keep working on it.
 my life is going on..need to find a lot of time practice..
 
 **Link to work:** [Simple React-Redux-Thunk App - Blog](https://github.com/pseudogeek7/reactive-tuts/tree/master/blog)
+
+
+### Day 7: May 05, 2020 
+
+**Today's Progress**: 
+While continuing to build a blog app - small react-redux app that fetches data from external API; worked on following additions:-
+1. Population of View using the fetched data
+2. Fetching & Display of Post Author by creating a new component, actioncreator, 
+	reducer and connect tag
+
+**Thoughts:**
+with steady practice, slowly slowly grasping the whole workflow of react & redux and why things are like that
+
+**Link to work:** [Simple React-Redux-Thunk App - Blog](https://github.com/pseudogeek7/reactive-tuts/tree/master/blog)
