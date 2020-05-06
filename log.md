@@ -91,15 +91,11 @@ my life is going on..need to find a lot of time practice..
 **Link to work:** [Simple React-Redux-Thunk App - Blog](https://github.com/pseudogeek7/reactive-tuts/tree/master/blog)
 
 
-### Day 7: May 05, 2020 
+### Day 8: May 06, 2020 
 
 **Today's Progress**: 
-While continuing to build a blog app - small react-redux app that fetches data from external API; worked on following additions:-
-1. Population of View using the fetched data
-2. Fetching & Display of Post Author by creating a new component, actioncreator, 
-	reducer and connect tag
-
+Refactored code to move logic to mapStateToProps func 4 reusability, learnt/tried #lodash #memoize method 2 solve overfetchng API issue; started working on other soln due 2 limitations
 **Thoughts:**
-with steady practice, slowly slowly grasping the whole workflow of react & redux and why things are like that
+busy day, couldnt do much; memoize & js syntax sucks
 
 **Link to work:** [Simple React-Redux-Thunk App - Blog](https://github.com/pseudogeek7/reactive-tuts/tree/master/blog)
