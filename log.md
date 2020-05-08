@@ -99,3 +99,13 @@ Refactored code to move logic to mapStateToProps func 4 reusability, learnt/trie
 busy day, couldnt do much; memoize & js syntax sucks
 
 **Link to work:** [Simple React-Redux-Thunk App - Blog](https://github.com/pseudogeek7/reactive-tuts/tree/master/blog)
+
+
+### Day 9: May 07, 2020 
+
+**Today's Progress**: 
+wrote new func to deal with API overfetch issue - did nested actioncreator calls, #lodash map, iterator, uniq & chain func 2 fetch unique userIds agst all posts.. code refactoring agst new funcs
+**Thoughts:**
+react-redux needs alot of practice to grasp over all - challenge accepted
+
+**Link to work:** [Simple React-Redux-Thunk App - Blog](https://github.com/pseudogeek7/reactive-tuts/tree/master/blog)
