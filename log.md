@@ -109,3 +109,12 @@ wrote new func to deal with API overfetch issue - did nested actioncreator calls
 react-redux needs alot of practice to grasp over all - challenge accepted
 
 **Link to work:** [Simple React-Redux-Thunk App - Blog](https://github.com/pseudogeek7/reactive-tuts/tree/master/blog)
+
+### Day 10: May 08, 2020 
+
+**Today's Progress**: 
+Revisited Redux-React Integration concepts. Kickstarted dev of twitch replica with simplified features in order to learn React Navigation, Authentication, Error Handling, CRUD and Form Handling using Redux. Started implementing Nav using React-Router-DOM; learnt about its working, exact keyword, link tag
+**Thoughts:**
+getting interesting; looking fwd to build whole application
+
+**Link to work:** [Simple Video Stream App - Blog](https://github.com/pseudogeek7/reactive-tuts/tree/master/streams/client)
