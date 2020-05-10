@@ -118,3 +118,13 @@ Revisited Redux-React Integration concepts. Kickstarted dev of twitch replica wi
 getting interesting; looking fwd to build whole application
 
 **Link to work:** [Simple Video Stream App - Blog](https://github.com/pseudogeek7/reactive-tuts/tree/master/streams/client)
+
+### Day 11: May 09, 2020 
+
+**Today's Progress**: 
+Understanding diff between BrowserRouter, HashRouter and MemoryRouter, their simplified implementation.
+Building on exisitng App, did component scaffolding, wired up routes and adding header to app using link comp and nesting in Browser Router
+**Thoughts:**
+Memory Router requirement not clear; looking fwd to authentication
+
+**Link to work:** [Simple Video Stream App - Blog](https://github.com/pseudogeek7/reactive-tuts/tree/master/streams/client)
